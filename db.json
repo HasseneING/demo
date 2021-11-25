@@ -3,7 +3,8 @@
 {
     "author": "Chinua Achebe",
     "country": "Tunisia",
-    "id" : "1A 2B 4D 3C ",
+    "id":1,
+    "uid" : "1A 2B 4D 3C ",
     "body" : "1234567891234",
     "title": "Things Fall Apart",
     "year": 1958
@@ -11,7 +12,8 @@
     {
     "author": "Chinua Achebe",
     "country": "Nigeria",
-    "id" : "1A 2B 4D 3C ",
+    "id":2,
+    "uid" : "1A 2B 4D 3C ",
     "bookName" : "Book Name 2",
     "isbn" : "1234567891234",
     "body": "Things Fall Apart",
@@ -19,7 +21,8 @@
   },{
     "author": "Chinua Achebe",
     "country": "Nigeria",
-    "id" : "1A 2B 4D 3C ",
+    "id":3,
+    "uid" : "1A 2B 4D 3C ",
     "bookName" : "Book Name 2",
     "body" : "1234567891234",
     "title": "Things Fall Apart",
@@ -27,7 +30,8 @@
   },{
     "author": "Chinua Achebe",
     "country": "Nigeria",
-    "id" : "1A 2B 4D 3C ",
+    "id":4,
+    "uid" : "1A 2B 4D 3C ",
     "bookName" : "Book Name 2",
     "body" : "1234567891234",
     "title": "Things Fall Apart",
@@ -35,7 +39,8 @@
   },{
     "author": "Chinua Achebe",
     "country": "Nigeria",
-    "id" : "1A 2B 4D 3C ",
+    "id":5,
+    "uid" : "1A 2B 4D 3C ",
     "bookName" : "Book Name 2",
     "body" : "1234567891234",
     "title": "Things Fall Apart",
