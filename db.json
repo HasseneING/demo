@@ -44,8 +44,8 @@
     "id":2,
     "uid" : "2D 5A 6D 2B",
     "bookName" : "Book Name 2",
-    "isbn" : "00100002968473",
-    "body": "Fairy tales",
+    "body" : "00100002968473",
+    "title": "Fairy tales",
     "year": 1958
   }
   ],
