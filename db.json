@@ -4,46 +4,48 @@
     "author": "Chinua Achebe",
     "country": "Tunisia",
     "id":1,
-    "uid" : "1A 2B 4D 3C ",
+    "uid" : "1A 2B 4D 3C",
     "body" : "1234567891234",
     "title": "Things Fall Apart",
     "year": 1958
   },
     {
-    "author": "Chinua Achebe",
-    "country": "Nigeria",
+    "author": "Hans Christian Andersen",
+    "country": "USA",
     "id":2,
-    "uid" : "1A 2B 4D 3C ",
+    "uid" : "2D 5A 6D 2B",
     "bookName" : "Book Name 2",
-    "isbn" : "1234567891234",
-    "body": "Things Fall Apart",
+    "isbn" : "00100002968473",
+    "body": "Fairy tales",
     "year": 1958
-  },{
-    "author": "Chinua Achebe",
+  },
+    {
+    "author": "Dante Alighieri",
     "country": "Nigeria",
     "id":3,
-    "uid" : "1A 2B 4D 3C ",
+    "uid" : "6D 1F 2A 3B",
     "bookName" : "Book Name 2",
-    "body" : "1234567891234",
-    "title": "Things Fall Apart",
+    "body" : "00100003957963",
+    "title": "The Divine Comedy",
     "year": 1958
-  },{
+  },
+    {
     "author": "Chinua Achebe",
     "country": "Nigeria",
     "id":4,
-    "uid" : "1A 2B 4D 3C ",
+    "uid" : "2A 1D 3C 3B",
     "bookName" : "Book Name 2",
-    "body" : "1234567891234",
+    "body" : "00100001978983",
     "title": "Things Fall Apart",
     "year": 1958
   },{
-    "author": "Chinua Achebe",
+    "author": "Jane Austen",
     "country": "Nigeria",
     "id":5,
-    "uid" : "1A 2B 4D 3C ",
+    "uid" : "4D 1A 4B 2C",
     "bookName" : "Book Name 2",
-    "body" : "1234567891234",
-    "title": "Things Fall Apart",
+    "body" : "00100003957963",
+    "title": "Pride and Prejudice",
     "year": 1958
   }
   ],
